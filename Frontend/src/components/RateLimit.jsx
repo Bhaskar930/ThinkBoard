@@ -1,4 +1,4 @@
-import { ZapIcon } from "lucide-react";
+import { ZapIcon } from "lucide-react/dist/cjs/lucide-react";
 import React from "react";
 
 const RateLimit = () => {

@@ -1,4 +1,4 @@
-import { NotebookIcon } from "lucide-react";
+import { NotebookIcon } from "lucide-react/dist/cjs/lucide-react";
 import { Link } from "react-router";
 
 const NotesNotFound = () => {

@@ -1,5 +1,5 @@
 import React from "react";
-import { PenSquareIcon, Trash2Icon } from "lucide-react";
+import { PenSquareIcon, Trash2Icon } from "lucide-react/dist/cjs/lucide-react";
 import { Link } from "react-router"; // ✅ use react-router-dom, not "react-router"
 import { formatDate } from "../lib/utils";
 import axios from "axios";

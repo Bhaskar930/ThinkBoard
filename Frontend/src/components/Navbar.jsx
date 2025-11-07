@@ -1,4 +1,4 @@
-import { PlusIcon } from "lucide-react";
+import { PlusIcon } from "lucide-react/dist/cjs/lucide-react";
 import React from "react";
 import { Link } from "react-router";
 
